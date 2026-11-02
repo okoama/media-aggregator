@@ -24,3 +24,6 @@ cd media-cli
 - [] Expansion to more media types
 - [] Advanced queries and trend data
 - [] Schedule automatic API refreshes
+
+## Author
+Amarachi, github.com/okoama
